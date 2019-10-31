@@ -1,0 +1,4 @@
+﻿  main_prac11.cpp
+c:\users\e_132\onedrive\documentos\compugráfica\setsunacode\laboratoriocgiproyecto\laboratoriocgiproyecto\main_prac11.cpp(603): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\e_132\onedrive\documentos\compugráfica\setsunacode\laboratoriocgiproyecto\laboratoriocgiproyecto\main_prac11.cpp(610): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  LaboratorioCGIProyecto.vcxproj -> C:\Users\e_132\OneDrive\Documentos\CompuGráfica\SetsunaCode\LaboratorioCGIProyecto\Debug\LaboratorioCGIProyecto.exe
